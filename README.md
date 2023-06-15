@@ -1,2 +1,2 @@
 # Mineclone
-Play: personperson25.github.io/mineclone
+Play: https://personperson25.github.io/mineclone
